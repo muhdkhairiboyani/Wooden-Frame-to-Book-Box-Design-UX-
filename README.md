@@ -5,7 +5,7 @@ An actual end-to-end product design by doing a product hack of converting wooden
 ![](01%20Actual%2001.jpg)
 
 # Problem
-A few clients, in the media & creative industry, dropped by our office inquiring for new packaging ideas for their photobooks. They have done several type of boxes to store their books, such as clamshell boxes, top and bottom boxes or shoe box types and a few others. But they are looking for a box that will store the follwoing specs:
+Back in 2021,a few clients, in the media & creative industry, dropped by our office inquiring for new packaging ideas for their photobooks. They have done several type of boxes to store their books, such as clamshell boxes, top and bottom boxes or shoe box types and a few others. But they are looking for a box that will store the follwoing specs:
 
 1. A small 8x6 inch photobook
 2. Made 100% of wood OR some parts of wood
@@ -38,14 +38,31 @@ I converted wooden frames used for stretched canvas into hybrid wooden boxes. I 
 5. Wood stain OR dye
 6. PVC glue
 
+#Method of Making
+Artisanal. These unique boxes are handmade from start to finish.
+
 # Prototype
-IMG
+![](01%20prototype.jpg)
 
 # Actual Product for Rocketvows - photography company
-IMG
+![](01%20Actual%2002.jpg)
 
 # Variation of product for The Vanilla Project - photography company
-IMG
+![](01%20Variation.jpg)
+
+# Insights
+Now, in 2023, these unique boxes are made each time a pre-order is received.
+
+
+#### Contact me
+- LinkedIn: [Muhammad Khairi](www.linkedin.com/in/muhammd-khairi-boyani-10694061)
+- Instagram: [mikistudio21](https://www.instagram.com/mikistudio21/)
+
+---
+#### Photo:
+- Muhammad Khairi
+
+---
 
 
 
