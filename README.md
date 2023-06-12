@@ -2,7 +2,7 @@ Product Design through UX
 # Wooden Frame to Book Box
 An actual end-to-end product design by doing a product hack of converting wooden photo frames into wooden box packaging for books.
 
-IMG
+![](01 Actual 01.jpg)
 
 # Problem
 A few clients, in the media & creative industry, dropped by our office inquiring for new packaging ideas for their photobooks. They have done several type of boxes to store their books, such as clamshell boxes, top and bottom boxes or shoe box types and a few others. But they are looking for a box that will store the follwoing specs:
