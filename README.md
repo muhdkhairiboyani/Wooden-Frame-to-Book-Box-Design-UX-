@@ -28,7 +28,24 @@ Client's general feedbacks are:
 3. We want a unique box, small enough to store our latest photobook (8x6 inch)
 
 # Solution
+I converted wooden frames used for stretched canvas into hybrid wooden boxes. I found out that a 12x10 inch frame have an internal clearance space of slightly more than 8x6 inches, and that is a perfect fit for the client's photobook.
 
+# Materials
+1. 12x10 inch wooden frame - Either stained or natural
+2. 3mm thick gray boards - cut to size to make the cover for the box (for both sides)
+3. Allegro 170 gsm paper - to print design and company name
+4. Matte Lamination - for printed materials
+5. Wood stain OR dye
+6. PVC glue
+
+# Prototype
+IMG
+
+# Actual Product for Rocketvows - photography company
+IMG
+
+# Variation of product for The Vanilla Project - photography company
+IMG
 
 
 
