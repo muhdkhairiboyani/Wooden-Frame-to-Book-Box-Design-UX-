@@ -1,4 +1,4 @@
-# Book-Box-Packaging-using-Wooden-Frame
+# Wooden Frame to Book Box - PRODUCT DESIGN THROUGH UX
 An actual end-to-end product design by doing a product hack of converting wooden photo frames into wooden box packaging for books.
 
 IMG
